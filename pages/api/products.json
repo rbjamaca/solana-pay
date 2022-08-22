@@ -1,18 +1,20 @@
 [
   {
     "id": 1,
-    "name": "Heineken Bottle",
+    "name": "Pink Venom",
     "price": "2.99",
-    "description": "Get this 1 bottle of Heineken for only $0.09!",
-    "image_url": "https://i.imgur.com/rVD8bjt.png",
-    "filename": "Beer_aH8rGUhmF9-1650519326.jpeg",
+    "description": "Get this Pink Venom poster for 2.99 USDC",
+    "image_url": "https://i.ibb.co/4stRJDN/Fak-JAx-Ta-QAAy3v-K.jpg",
+    "filename": "PinkVenom.jpeg",
     "hash": "QmUPwiPL91YF63KM8cCku3X6pWh6W7pTJSe81kFLCkqLgp"
   },
   {
     "id": 2,
-    "name": "Avatar",
-    "price": "0.05",
-    "image_url": "https://i.ibb.co/yNWSD66/gjX7D55.jpg",
-    "description": "Avatarrrrrr"
+    "name": "Born Pink",
+    "price": "3.99",
+    "description": "A litle bit of black, a little bit of pink",
+    "image_url": "https://i.ibb.co/Bgw7grk/Faa-JG4j-VEAAFkne.jpg",
+    "filename": "BornPink.webp",
+    "hash": "QmeK7wtNwzaybqnne9UG9XzMgBVAn8e19HUm4f5cV2mSx1"
   }
 ]

@@ -50,8 +50,8 @@ const App = () => {
       <HeadComponent/>
       <div className="container">
         <header className="header-container">
-          <p className="header"> 😳 Trev's Thrift Shop 😈</p>
-          <p className="sub-text">The only thrift shop that accepts shitcoins</p>
+          <p className="header">🖤 BlackPink 💖</p>
+          <p className="sub-text">BlackPink in your area!</p>
 
           {isOwner && (
             <button className="create-product-button" onClick={() => setCreating(!creating)}>
