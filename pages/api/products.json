@@ -1,11 +1,18 @@
 [
-    {
-      "id": 1,
-      "name": "Heineken Bottle",
-      "price": "2.99",
-      "description": "Get this 1 bottle of Heineken for only $0.09!",
-      "image_url": "https://i.imgur.com/rVD8bjt.png",
-      "filename": "Beer_aH8rGUhmF9-1650519326.jpeg",
-      "hash": "QmUPwiPL91YF63KM8cCku3X6pWh6W7pTJSe81kFLCkqLgp"
-    }
-  ]
+  {
+    "id": 1,
+    "name": "Heineken Bottle",
+    "price": "2.99",
+    "description": "Get this 1 bottle of Heineken for only $0.09!",
+    "image_url": "https://i.imgur.com/rVD8bjt.png",
+    "filename": "Beer_aH8rGUhmF9-1650519326.jpeg",
+    "hash": "QmUPwiPL91YF63KM8cCku3X6pWh6W7pTJSe81kFLCkqLgp"
+  },
+  {
+    "id": 2,
+    "name": "Avatar",
+    "price": "0.05",
+    "image_url": "https://i.ibb.co/yNWSD66/gjX7D55.jpg",
+    "description": "Avatarrrrrr"
+  }
+]
